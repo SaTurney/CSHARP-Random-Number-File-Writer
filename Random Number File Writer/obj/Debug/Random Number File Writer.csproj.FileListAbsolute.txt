@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 3\Random Number File Writer\obj\Debug\Random Number File Writer.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 3\Random Number File Writer\obj\Debug\Random_Number_File_Writer.Form1.resources
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 3\Random Number File Writer\obj\Debug\Random_Number_File_Writer.Properties.Resources.resources
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 3\Random Number File Writer\obj\Debug\Random Number File Writer.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 3\Random Number File Writer\obj\Debug\Random Number File Writer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 3\Random Number File Writer\bin\Debug\Random Number File Writer.exe.config
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 3\Random Number File Writer\bin\Debug\Random Number File Writer.exe
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 3\Random Number File Writer\bin\Debug\Random Number File Writer.pdb
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 3\Random Number File Writer\obj\Debug\Random Number File Writer.exe
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 3\Random Number File Writer\obj\Debug\Random Number File Writer.pdb
